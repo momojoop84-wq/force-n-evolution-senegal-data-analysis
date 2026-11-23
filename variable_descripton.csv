@@ -1,0 +1,27 @@
+Attribute,Description
+Country,Country name (Senegal or South Africa)
+Code,Country code (SEN or ZAF)
+Year,Year of the record
+ElectricityAccess,Percentage of population with access to electricity
+AgeDepRatioTotal,Age dependency ratio (total dependents as % of working-age population)
+AgeDepRatioOld,Percentage of population aged 65+ per working-age population
+AgeDepRatioYoung,Percentage of population aged 0-14 per working-age population
+HealthExpGDP,Health expenditure as a percentage of GDP
+ExportsGDP,Exports as a percentage of GDP
+GDPPerCapita,GDP per capita in US dollars
+ImportsGDP,Imports as a percentage of GDP
+InternetUsage,Percentage of population using the internet
+Inflation,Annual inflation rate (percentage change in consumer prices)
+LifeExpectancy,"Average life expectancy at birth, in years"
+MobileSubs,Mobile cellular subscriptions per 100 people
+FemPop,Total female population
+MalePop,Total male population
+TotPop,Total population
+PrimaryEnroll,Gross primary school enrollment (all)
+PrimaryEnrollFem,Gross primary school enrollment (females)
+PrimaryEnrollMale,Gross primary school enrollment (males)
+SecondaryEnroll,Gross secondary school enrollment (all)
+SecondaryEnrollFem,Gross secondary school enrollment (females)
+SecondaryEnrollMale,Gross secondary school enrollment (males)
+UnemploymentRate,Unemployment rate (percentage of total labour force)
+UrbanPop,Total urban population
